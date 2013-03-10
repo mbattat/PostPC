@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tip Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="edtBillAmount">Bill Amount</string>
+    <string name="chkRound">Round to nearest dollar</string>
+    <string name="btnCalculate">Calculate</string>
+	<string name="txtTipResult">Tip: $</string>
+	<string name="inputError">An invalid input, value should be higher then zero.</string>
+	<string name="dollar">Tip: $</string>
+	
+</resources>
+
